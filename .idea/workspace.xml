@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0fa83c8-15a0-4c24-8b2c-e560a208d0ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaMvc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMvc/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="c0fa83c8-15a0-4c24-8b2c-e560a208d0ee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
